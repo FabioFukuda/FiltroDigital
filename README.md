@@ -3,4 +3,4 @@ Ainda, é permitido ao usuário que este faça configurações referentes aos fi
 
 Foi utilizada uma placa tiva EK-TM4C1294XL em conjunto com a Educational Booster Pack MKII. 
 
-A apresentação do projeto, bem como os requisitos, estão demonstrados no documento CONOPS. Já o design da solução é apresentada no documento Documentação de Projeto.
+A apresentação do projeto, bem como os requisitos, estão demonstrados no documento CONOPS. Já o design da solução é apresentada no documento Design de Projeto.
